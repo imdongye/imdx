@@ -1,0 +1,23 @@
+# cmake
+[Bb]uild*/ 
+
+# Visual Studio
+.vscode/*
+!.vscode/launch.json
+!.vscode/settings.json
+
+# Mac
+.DS_Store
+
+# etc
+*ignored/
+*private/
+*todo/
+*result/
+
+main/imgui.ini
+
+main/assets/
+main/exports/
+
+!main/exports/imgui.ini
